@@ -1,5 +1,3 @@
-//import React from 'react' ;
- //import React, { Component } from 'react';
 import emailIcon from '../assets/email_icon.png';
 import githubIcon from '../assets/github_icon.png';
 import linkedIcon from '../assets/linkedin_icon.png';
